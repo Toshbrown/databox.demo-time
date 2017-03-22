@@ -1,1 +1,1 @@
-{"app":{"name":"","description":"","tags":"","id":"61437a31.a9aed4"},"packages":[{"type":"tab","id":"60d60400.aeab3c","name":"new package","risks":"","benefits":"","purpose":"","install":"optional","datastores":[]}],"allowed-combinations":[]}
+{"app":{"name":"demo-time","description":"demo time app","tags":"time, cron","id":"61437a31.a9aed4"},"packages":[{"type":"tab","id":"60d60400.aeab3c","name":"time","risks":"","benefits":"shows periodic function","purpose":"to show time working","install":"optional","datastores":[]}],"allowed-combinations":[]}
